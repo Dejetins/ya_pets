@@ -1,1 +1,1 @@
-# yandex_praktikum
+# yandex_praktikum_data_analyst_bootcamp
